@@ -1,6 +1,11 @@
 # Github-Examples
 A repo containing GitHub for programmatic examples
+<<<<<<< HEAD
+let's try this again - testing branch
+Doing another commit to add to the graph tree.
+=======
 try it again - main
+>>>>>>> main
 ## Git Hidden Folder
 
 There is a hidden foler called `.git` which tells you that our project is a git repo.
